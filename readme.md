@@ -20,9 +20,12 @@ This challenge has be the hardest for me thus far. I may start adding reflection
 <hr>
 Link to GitHub repository:
 
+
 https://github.com/AnthonyCiccone90/coding-quiz
 
 Link to deployed page:
+
 https://anthonyciccone90.github.io/coding-quiz/
+
 <hr>
 User story provided by University of Denver FSF coding bootcamp
