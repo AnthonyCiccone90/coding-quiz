@@ -19,10 +19,10 @@ var currentQuestionIndex = 0;
 
 var questions = [
   {
-    question: "What is the capital of Idaho?",
-    options: ["Venice", "Dallas", "Dublin", "Boise"],
+    question: "What do you call an element nested within another element?",
+    options: ["Parent", "Extra", "Auxiliary", "Child"],
     correctIndex: 3,
-    correctAnswer: "Boise",
+    correctAnswer: "Child",
   },
 
   {
@@ -38,15 +38,15 @@ var questions = [
   },
 
   {
-    question: "Should you get back with your ex?",
+    question: "Which of the following is not a coding laguage?",
     options: [
-      ">>>",
-      ">>>",
-      "No",
-      "<<<",
+      "JavaScript",
+      "HTML",
+      "Biology",
+      "CSS",
     ],
     correctIndex: 2,
-    correctAnswer: "No",
+    correctAnswer: "Biology",
   },
 ];
 
