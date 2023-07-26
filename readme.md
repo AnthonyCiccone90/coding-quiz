@@ -16,7 +16,7 @@ This challenge was to create a code quiz, and a challenge indeed it was. Several
 
 ### Reflection
 
-This challenge has be the hardest for me thus far. I may start adding reflections during my time in this bootcamp (depending on the assignment). Thankfully, I have been told my README files are meaningful enough so far, but I believe it is important for me to do this since I will be the one looking back at this after the bootcamp is finished. This will be a beneficial way to track my own improvement as well as my most obvious (and subtle) strengths and weaknesses. Syntax on JavaScript and jQueries has proven to be diffucult for me to grasp right away. Just like anything else though, it's practice, practice, practice. Now more than ever I understand why Google is everyone's best friend. 
+This challenge has be the hardest for me thus far. I may start adding reflections during my time in this bootcamp (depending on the assignment). Thankfully, I have been told my README files are meaningful enough so far, but I believe it is important for me to do this since I will be the one looking back at this after the bootcamp is finished. This will be a beneficial way to track my own improvement as well as my most obvious and subtle strengths and weaknesses. Syntax on JavaScript and jQueries has proven to be diffucult for me to grasp right away. Just like anything else though, it's practice, practice, practice. Now more than ever I understand why Google is everyone's best friend. 
 <hr>
 Link to GitHub repository:
 
